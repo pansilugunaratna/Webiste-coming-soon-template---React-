@@ -1,4 +1,4 @@
-# Webiste-coming-soon-template---React-
+# Website-coming-soon-template---React-
 
 You need to install the following dependancies to run this project
 
