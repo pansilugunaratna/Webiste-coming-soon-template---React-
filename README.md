@@ -1,7 +1,17 @@
-# Website-coming-soon-template---React-
+# Website-coming-soon-template-React-
 
-You need to install the following dependancies to run this project
+In the project directory, you can run:
 
+npm start
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+-----------------------
+Dependancies used:
 react,
 react-dom,
 react-scripts,
